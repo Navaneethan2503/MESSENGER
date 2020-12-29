@@ -1,2 +1,2 @@
-# messenger
+# MESSENER
 messenger created using react 
